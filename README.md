@@ -1,2 +1,2 @@
 # smsadjadi.github.io
-Github Page
+GitHub Page
